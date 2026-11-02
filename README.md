@@ -2,7 +2,7 @@
 
 Senior Network Engineer focused on network architecture, automation, and infrastructure design.
 
-I enjoy building automation tools, cloud-integrated networking solutions, and self-hosted infrastructure.
+I enjoy building automation tools, hybrid infrastructure solutions, and self-hosted platforms.
 
 ## Areas of Focus
 
@@ -15,7 +15,7 @@ I enjoy building automation tools, cloud-integrated networking solutions, and se
 ## Current Interests
 
 - Network Automation
-- Cloud Networking
+- Hybrid Infrastructure
 - Self-Hosted Infrastructure
 - Docker & Container Technologies
 - Home Lab Projects
