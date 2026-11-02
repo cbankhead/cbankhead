@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Chris
 
-<!--
-**cbankhead/cbankhead** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Network Engineer focused on network architecture, automation, and infrastructure design.
 
-Here are some ideas to get you started:
+I enjoy building automation tools, cloud-integrated networking solutions, and self-hosted infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas of Focus
+
+- Network Architecture
+- Python Automation
+- Infrastructure as Code (Terraform & Ansible)
+- Multi-vendor Networks
+- Clos Fabric Design
+
+## Current Interests
+
+- Network Automation
+- Cloud Networking
+- Self-Hosted Infrastructure
+- Docker & Container Technologies
+- Home Lab Projects
+
+## Technologies
+
+Python • SONiC • Terraform • Ansible • GCP • Docker • Linux • Django • BGP • Cisco • Palo Alto
